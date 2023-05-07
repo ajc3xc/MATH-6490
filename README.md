@@ -6,8 +6,8 @@ Taken Fall 2022
 
 ## HW Assignments
 - __[HW1](Math-6490-HW1)([Assignment](Math-6490-HW1/Assignment1.pdf), [Answers](Math-6490-HW1/Assignment1_Answers.pdf))__
-- __[HW2](Math-6490-HW2)__
-- __[HW3](Math-6490-HW3)__
-- __[HW4](Math-6490-HW4)__
-- __[Final Project](Math-6490-FinalProject)__
+- __[HW2](Math-6490-HW2)([Assignment](Math-6490-HW2/Assignment2.pdf), [Answers](Math-6490-HW2/Assignment2_Answers.pdf))__
+- __[HW3](Math-6490-HW3)([Assignment](Math-6490-HW3/Assignment3.pdf), [Answers](Math-6490-HW3/Assignment3_Answers.pdf))__
+- __[HW4](Math-6490-HW4)([Assignment](Math-6490-HW4/Assignment4.pdf), [Answers](Math-6490-HW4/Assignment4_Answers.pdf))__
+- __[Final Project](Math-6490-FinalProject)([Assignment](Math-6490-FinalProject/FinalProject.pdf), [Answers](Math-6490-FinalProject/FinalProject_Answers.pdf))__
 
