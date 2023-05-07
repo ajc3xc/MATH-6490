@@ -8,5 +8,5 @@ Taken Fall 2022
 - __[HW2](Math-6490-HW2)__
 - __[HW3](Math-6490-HW3)__
 - __[HW4](Math-6490-HW4)__
-- __[Final Project](Math-6490-Final-Project)__
+- __[Final Project](Math-6490-FinalProject)__
 
