@@ -1,6 +1,6 @@
 # Nonlinear Optimization in Machine Learning
 ![image](https://user-images.githubusercontent.com/91383782/236700649-40befcaf-2537-42a1-ac38-8675695397a5.png)<br/>
-A repository storing the My Answers to the Homework Assignments for Math 6490: Nonlinear Optimization in Machine Learning\
+A repository storing the my answers to the homework assignments and final project for Math 6490: Nonlinear Optimization in Machine Learning\
 Taken Fall 2022
 <br/><br/>
 
