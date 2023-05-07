@@ -5,7 +5,7 @@ Taken Fall 2022
 <br/><br/>
 
 ## HW Assignments
-- __[HW1](Math-6490-HW1)([Assignment](Math-6490-HW1/Assignment1.pdf))__
+- __[HW1](Math-6490-HW1)([Assignment](Math-6490-HW1/Assignment1.pdf), [Answers](Math-6490-HW1/Assignment1_Answers.pdf))__
 - __[HW2](Math-6490-HW2)__
 - __[HW3](Math-6490-HW3)__
 - __[HW4](Math-6490-HW4)__
